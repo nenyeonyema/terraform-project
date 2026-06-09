@@ -262,4 +262,4 @@ terraform destroy     # Tear down all Terraform-managed infrastructure
 ## 👤 Author
 
 **Chinenye Onyema** — DevOps Engineer  
-[LinkedIn](https://linkedin.com/chinenyeonyema/) · [Twitter/X](https://twitter.com/nenyeonyema)
+[LinkedIn](https://linkedin.com/in/chinenyeonyema/) · [Twitter/X](https://twitter.com/nenyeonyema)
